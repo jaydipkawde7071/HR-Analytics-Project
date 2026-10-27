@@ -97,15 +97,18 @@ These findings describe observed patterns and do not establish that any single f
 
 ## 📈 Dashboard & Visualizations
 
-The project includes an Excel dashboard for summarizing key HR metrics and presenting attrition trends.
+### HR Analytics Dashboard — Overview
 
-Dashboard files:
+![HR Analytics Dashboard Overview](HR%20Analytics%20Project%20Dashboard/HR_Dashboard_Overview_1280x720.png)
 
-* `HR_Analytics_Dashboard.xlsx` – Excel dashboard
-* `HR_Dashboard_Overview_1280x720.png` – Dashboard overview
-* `HR_Dashboard_Details_1280x720.png` – Detailed dashboard view
+### Detailed Dashboard
 
-Python visualizations are available in the `Python/charts/` folder.
+![HR Analytics Dashboard Details](HR%20Analytics%20Project%20Dashboard/HR_Dashboard_Details_1280x720.png)
+
+You can also explore the Excel dashboard:
+
+[**Open HR Analytics Dashboard (Excel)**](HR%20Analytics%20Project%20Dashboard/HR_Analytics_Dashboard.xlsx)
+
 
 ## 🚀 How to Run the Project
 
